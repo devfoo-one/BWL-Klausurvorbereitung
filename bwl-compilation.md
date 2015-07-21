@@ -611,6 +611,8 @@ Die **aus der Bilanz abgeleiteten** Konten bezeichnet man als Bestandskonten. Hi
 | Abgänge | Anfangsbestand(AB) |
 |         | Zugänge            |
 
+> “sehen sie hier woher das Geld kommt? Nein? Dann kann es kein Passivkonto sein!”
+
 ### Buchen auf Bestandskonten
 
 1.	Zu Beginn des Geschäftsjahres müssen die **Konten eröffnet werden**. Hierzu werden die in der Bilanz ausgewiesenen **Anfangsbestände in den Konten eingetragen**.
@@ -694,6 +696,51 @@ Zum Ende eines Geschäftsjahres werden die Konten abgeschlossen. Dazu wird
 | BGA 1000 |       |
 
 *Wenn alles richtig gebucht wurde, ergeben beide Seiten des SBK die gleiche Summe.*
+
+### Buchen auf Erfolgskonten
+
+Um den Unternehmenserfol ermitteln zu können, benötigt die Finanzbuchhaltung alle Aufwendungen und Erträge des Geschäftsjahres. Das Eigenkapitalkonto blieb bis jetzt stehts unverändert. Dies lag daran, dass alle bisher gebuchten Geschäftsvorfälle sich nicht auf den Unternehmenserfolg ausgewirkt haben. Die Erfolgskonten werden unterteilt in:
+
+-	Aufwandskonten (negativ für den Gewinn)
+	-	z.B. Verbrauch von Heizöl und Rohstoffen, Lohn- und Gehaltszahlungen
+-	Ertragskonten (positiv für den Gewinn)
+	-	z.B. Umsatzerlöse für unsere verkauften Produkte, Zinsgutschriften
+
+***Alle Aufwendungen werden im Soll und alle Erträge im Haben gebucht!***
+
+Die Erfolgskonten sind **Unterkonten des Eigenkapitalkontos (EK)**. Alle Erfolgskonten werden **zunächst über das Gewinn- und Verlustkonto (GuV)** und dieses dann über das **Eigenkapitalkonto abgeschlossen.**
+
+#### Beispiel
+
+*Wir verbrauchen Rohstoffe für 2400€*
+
+**Konto Rohstoffe**
+
+| Soll      | Haben                |
+|:----------|:---------------------|
+| EBK 40000 | A. f. Rohstoffe 2400 |
+
+**Konto Aufwendungen für Rohstoffe**
+
+| Soll           | Haben        |
+|:---------------|:-------------|
+| Rohstoffe 2400 | GuV 2400 (1) |
+
+*(1) Der Abschluss erfolgt genau so wie bei den Bestandskonten. Es wird ein Saldo gebildet und dieser auf die wertmäßig kleinere Seite eingetragen.* Da der Saldo hier auf der Haben Seite steht, muss dieser nun im GuV Konto auf die Soll - Seite
+
+**Konto GuV**
+
+| Soll                 | Haben                 |
+|:---------------------|:----------------------|
+| A. f. Rohstoffe 2400 | Eigenkapital 2400 (2) |
+
+*(2) Hier wieder genauso Saldo bilden zum Abschluss* Anschließend kommt dieser auf die gegenüberliegende Seite des Eigenkapitalkontos:
+
+**Konto Eigenkapital**
+
+| Soll     | Haben |
+|:---------|:------|
+| GuV 2400 |       |
 
 Kosten und Leistungsrechnung (KLR)
 ==================================
