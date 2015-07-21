@@ -625,7 +625,31 @@ Die **aus der Bilanz abgeleiteten** Konten bezeichnet man als Bestandskonten. Hi
 
 #### Buchungssatz
 
-*TODO: FILL ME*
+**Soll an Haben**, Konto A an Konto B
+
+Beispiele:
+
+-	*Bank an Forderungen 2000€*
+-	*Werbeaufwendungen 800€ und Vorsteuer 152€ an Bank 952€*
+
+#### Grundbuch
+
+-	chronologische Reihenfolge meiner Buchungen
+-	was steht da drin?
+	-	Datum
+	-	Belegnummer
+	-	Text
+	-	Buchung selber (welche Konten)
+
+[Beispiel](http://www.iwk-svk-dresden.de/demo/bwlex/html/G/Grundbuch-Journal.htm)
+
+*Warum wird im Grundbuch die Belegnummer angegeben?*
+
+> Stellen Sie sich vor wenn das nicht dasteht... jetzt kommt der Betriebsprüfer und kommt halt so gaaarnich klar...
+
+#### Hauptbuch
+
+> Die sachliche Ordnung, nichts anderes als meine Konten
 
 ### Eröffnungsbilanzkonto (EBK)
 
