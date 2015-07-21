@@ -471,7 +471,7 @@ Konzerne sind Unternehmenszusammenschlüsse, bei denen die **rechtliche Selbstst
 
 Bei einer Fusion **verlieren die Unternehmen sowohl ihre wirtschaftliche als auch ihre rechtliche Selbstständigkeit**. Die Fusion kann durch vollständige Übernahme von Unternehmen durch ein anderes Unternehmen oder durch Verschmelzung mehrerer Unternehmen zu einem neu gegründeten Unternehmen erfolgen.
 
-### Fusion vs. Konzern
+#### Fusion vs. Konzern
 
 -	Konzern
 	-	weniger finanzielle Mittel nötig
@@ -482,3 +482,98 @@ Bei einer Fusion **verlieren die Unternehmen sowohl ihre wirtschaftliche als auc
 	-	nur noch eine statt n Hauptversammlungen
 	-	nur noch 1 Jahresabschluss...
 	-	direktere Machtausübung
+
+---
+
+Finanzbuchführung (FIBU) und Jahresabschluss
+============================================
+
+-	**externes Rechnungswesen**
+-	**unterliegt gesetzlichen Vorgaben**
+-	**Dokumentations- und Beweismittel**
+-	**ist Pflicht**
+
+Alle Geschäftsfälle werden lückenlos auf Belegen erfasst und anschließend sachlich geordnet auf Koten gebucht. Doppelte Buchführung bedeutet, dass jeder Geschäftsvorfall auf zwei Konten gebucht wird. `Geschäftsfälle => Belege => Konten`. Belege sind z.B. Rechnungen und Kassenbons.
+
+Buchführungspflicht
+-------------------
+
+Lt. **Handelsgesetzbuch (HGB)** ist **jeder Kaufmann zu einer doppelten Buchführung verpflichtet.** Laut Abgabenordnung(AO) auch jeder Gewerbetreibende. ***Ausnahme:*** *e.K. oder Gewerbetreibende deren Gewinn kleiner gleich 50.000€ und Umsatz kleiner gleich 500.000€ müssen keine doppelte Buchführung durchführen.*
+
+Grundsätze ordnungsgemäßer Buchführung (GoB)
+--------------------------------------------
+
+Die Buchführung muss so beschaffen sein, dass sie einem Sachverständigen Dritten (z.B. Betriebsprüfer des Finanzamtes) innerhalb angemesssener Zeit einen Überblick über die Geschäftsvorfälle und über die Lage des Unternehmens vermitteln kann.
+
+-	Alle Geschäftsvorfälle müssen **zeitnah, lückenlos, richtig und sachlich geordnet (Konten)** gebucht werden.
+-	Jede Buchung muss **anhand von Belegen jederzeit nachprüfbar sein**. (Keine Buchung ohne Beleg)
+-	Der Jahresabschluss muss übersichtlich gegliedert sein.
+-	Die Buchführungsunterlagen (Bücher und Belege) sind **10 Jahre aufzubewahren.**
+
+Inventur, Inventar und Bilanz
+-----------------------------
+
+### Inventur
+
+Die Inventur ist die Erfassung aller Vermögensgegenstände und Schulden eines Unternehmens nach Art, Menge und Wert zu einem bestimmten Stichtag. **Jedes buchführrungspflichtige Unternehmen muss zum Ende des Geschäftsjahres eine Inventur durchführen.**
+
+-	körperliche Vermögensgegenstände (Maschinen, Rohstoffe) werden gezählt, gemessen oder gewogen
+-	nicht-körperliche Vermögen (z.B. Forderungen und Schulden) werden anhand der Buchhaltungsunterlagen ermittelt
+
+Im Gegensatz zur *Stichtagsinventur* (am letzten Tag des Geschäftsjahres) sind für Güter des Vorratsvermögens (z.B. Bestände an Material) verschiedene Inventurvereinfachungsverfahren zugelassen, z.b. die *permanente Inventur*, bei der der Erfassungsaufwand auf das ganze Jahr verteilt wird.
+
+### Inventar
+
+**Das Inventar ist das Ergebnis der Inventur**. Es ist das Bestandsverzeichnis aller Vermögenswerte und Schulden.
+
+-	**A Vermögen**
+	-	*Posten werden anhand der Liquidität gegliedert. Schnell liqudierbar ist ganz unten (z.B. Bankguthaben) und sehr feste Dinge stehen oben (Gebäude)*
+	-	**I Anlagevermögen**
+		-	*Alles was dem Unternehmen längerfristig dient (längerfristig: > 1 Jahr)*
+	-	**II Umlaufvermögen**
+		-	*Alles was dem Unternehmen kurzfristig dient*
+		-	Gliederung:
+			-	Material
+			-	unfertige Erzeugnisse
+			-	fertige Erzeugnisse
+			-	Forderungen
+			-	Kasse und Bank
+-	**B Schulden**
+	-	*geordnet nach Fälligkeit*
+	-	**I langfristige Schulden**
+	-	**II kurzfristige Schulden**
+-	**C Ermittlung des Eigenkapitals**
+
+### Bilanz
+
+**Die Bilanz baut auf dem Inventar auf**. Da das Inventar zu unübersichtlich für einen schnellen Überblick ist, **müssen buchführungspflichtige Unternehmen zum Ende des Geschäftsjahres zusätzlich eine Bilanz erstellen.** In der Bilanz werden **Vermögen und Kapital** gegenübergestellt. **Auf beiden Seiten muss die Summe gleich hoch sein.** (Wenn Ich etwas für 1000€ kaufe, dann muss Ich auch irgendwoher 1000€ beschaffen). **Zu jeder Position in der Bilanz gibt es eine Einzelabrechnung (Konto)**.
+
+#### Aubau der Bilanz
+
+##### Struktur
+
+|      Aktiva       |     Passiva     |
+|:-----------------:|:---------------:|
+| I Anlagevermögen  | I Eigenkapital  |
+| II Umlaufvermögen | II Fremdkapital |
+
+##### was sehe Ich auf den beiden Seiten der Bilanz?
+
+|                                Aktiva                                |                Passiva                 |
+|:--------------------------------------------------------------------:|:--------------------------------------:|
+|                       ***Investitionsseite***                        |        ***Finanzierungsseite***        |
+|                          *Mittelverwendung*                          |            *Mittelherkunft*            |
+| Wie wurde das verfügbare Kapital (die vorhandenen Mittel) verwendet? | Wo kommen die finanziellen Mittel her? |
+
+Doppelte Buchführung
+--------------------
+
+Kosten und Leistungsrechnung (KLR)
+==================================
+
+-	**internes Rechnungswesen**
+-	**zur internen Planung, Kontrolle und Steuerung**
+-	**realistische Informationen zur Planung**
+-	**freiwillig**
+
+*Warum brauche Ich neben der Finanzbuchhaltung eine Kosten- und Leistungsrechnung?* : Das Finanzamt interessiert nicht ob Ich mit Tischen, Stühlen oder Schränken Gewinn mache. Aber mich interessiert das intern.
