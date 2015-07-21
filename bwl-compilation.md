@@ -432,3 +432,53 @@ Mischgesellschaften (Personen- & Kapitalgesellschaften)
 
 -	ist eine Kommanditgesellschaft bei der der Komplementär eine GmbH ist
 -	es gibt keine natürliche Person mehr, die mit dem Privatvermögen haftet
+
+Zwischenbetriebliche Zusammenarbeit
+===================================
+
+Ziele der zwischenbetrieblichen Zusammenarbeit
+----------------------------------------------
+
+-	Über ortsansässige Vertriebsorganisationen den Zugang zu ausländischen Märkten erleichtern bzw. schneller zu erschließen.
+-	Zusammen die Marktmacht erhöhen (Kartelle, Einkaufsgenossenschaften etc.).
+-	Neue Produkte und Verfahren schneller, billiger und mit weniger Risiko entwickeln.
+-	Durch eine gemeinsame Produktion die Kostenvorteile der Massenproduktion nutzen.
+-	Ressourcen kombinieren (ARGE, Konsortien etc.).
+-	Über die Zusammenarbeit Know-how dazu gewinnen.
+-	Feindliche Übernahmen erschweren.
+
+Unternehmenszusammenschlüsse
+----------------------------
+
+Zur Sicherstellung eines funktionierenden Marktes dient insbesondere das **Gesetz gegen Wettbewerbsbeschränkungen (GWB)**. Im Rahmen der Fusionskontrolle kann das Kartellamt jede Form von Unternehmenszusammenschlüssen (also auch z.B. Konzernbildungen) verbieten, wenn dadurch eine markbeherrschende Stellung erreicht oder verstärkt wird. Das Kartellamt kann einschreiten, wenn marktbeherrschende Unternehmen ihre Marktmacht missbrauchen, um andere Unternehmen zu behindern oder zu benachteiligen.
+
+### Kartell
+
+Unternehmen einer Branche sprechen sich ab (z.B. Gebietskartelle, Preiskartelle). Kartelle sind grundsätzlich verboten. Ausnahmen regelt das Kartellgesetz.
+
+### Konzern
+
+Konzerne sind Unternehmenszusammenschlüsse, bei denen die **rechtliche Selbstständigkeit erhalten bleibt, die wirtschaftliche Selbstständigkeit jedoch durch eine einheitliche Leitung verloren geht.**
+
+-	**Muttergesellschaft -> Tochtergesellschaften**
+	-	Tochtergesellschaften werden wirtschaftlich von Muttergesellschaft beherrscht
+	-	Muttergesellschaft weiterhin operativ tätig
+-	**Holding -> Tochtergesellschaften**
+	-	Holding nicht operativ tätig
+	-	hält 100% der Anteile der Tochtergesellschaften
+
+### Fusion
+
+Bei einer Fusion **verlieren die Unternehmen sowohl ihre wirtschaftliche als auch ihre rechtliche Selbstständigkeit**. Die Fusion kann durch vollständige Übernahme von Unternehmen durch ein anderes Unternehmen oder durch Verschmelzung mehrerer Unternehmen zu einem neu gegründeten Unternehmen erfolgen.
+
+### Fusion vs. Konzern
+
+-	Konzern
+	-	weniger finanzielle Mittel nötig
+		-	Nur Mehrheit bei der Hauptversammlung
+	-	weniger Verwaltungsaufwand
+		-	beide Firmen bleiben selbstständig, weniger rechtlicher Aufwand
+-	Fusion
+	-	nur noch eine statt n Hauptversammlungen
+	-	nur noch 1 Jahresabschluss...
+	-	direktere Machtausübung
