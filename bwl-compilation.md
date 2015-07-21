@@ -181,11 +181,13 @@ Meistens akademische und künstlerische Tätigkeiten.
 
 ### Kleingewerbetreibender
 
-*TODO: fill me*
+Kleingewerbetreibender (bis 17.500€/Jahr) kann ins Handelsregister eingetragen werden, muss aber nicht. Wenn er das will ist er eK
 
 ### eingetragener Kaufmann (e.K.)
 
-*TODO: fill me*
+Wikipedia sez:
+
+> Die Bezeichnung Eingetragener Kaufmann oder Eingetragene Kauffrau gibt in Deutschland an, dass ein Einzelunternehmer, das heißt eine natürliche Person, als Kaufmann bzw. Kauffrau im Handelsregister eingetragen ist. Üblich sind die Abkürzungen e.Kfm. bzw. e.Kfr. oder geschlechtsneutral e.K.
 
 Personengesellschaften
 ----------------------
@@ -354,17 +356,14 @@ Das Stammkapital muss lediglich 1€ betragen. Es muss vor der Anmeldung zum Han
 -	börsennotierte AG´s
 	-	Vorteil: einfacher Aktienkauf und Verkauf
 
-*TODO : vervollständigen*
-
 #### Organe der AG
 
 ##### Vorstand
 
 -	führt die Geschäfte und vertritt die AG
 -	kann aus einer Person bestehen (überlicherweise aber mehrere)
+-	bei mehreren Mitgliedern gilt Gesamtgeschäftsführung und Gesamtvertretung
 -	Vorstandsmitglieder dürfen nicht gleichtzeitig im Aufsichtsrat der selben AG sitzen
-
-*TODO : vervollständigen*
 
 ##### Aufsichtsrat
 
@@ -372,23 +371,64 @@ Das Stammkapital muss lediglich 1€ betragen. Es muss vor der Anmeldung zum Han
 	-	kann Unterlagen der Gesellschaft einsehen und prüfen
 -	kann Vorstandsmitglieder abberufen
 	-	z.B. bei grober Pflichtverletzung, Unfähigkeit zur Geschäftsführung oder Vertrauensentzug durch die Hauptversammlung
+-	man kann alleine eine AG gründen, braucht dann aber noch jemanden für den Aufsichtsrat
+-	**wesentliches Machtinstrument für Großaktionäre** da diese über die Hauptversammlung die Zusammensetzung des Aufsichtsrats weitgehend bestimmen können
 
-*TODO : vervollständigen*
+###### Zusammensetzung des Aufsichtsrates
+
+-	bis zu 500 MA
+	-	nur Vertreter der Anteilseigner
+-	> 500 MA, < 2000 MA
+	-	der Aufsichtsrat muss zu 1/3 mit Arbeitnehmervertretern besetzt sein
+-	> 2000 MA
+	-	50% Anteilseigner, 50% Arbeitnehmervertreter
+	-	Anteilseigner haben jedoch bei Stimmengleichheit eine Zweitstimme, d.h. mehr Macht
 
 ##### Hauptversammlung (Aktionäre)
 
+-	ist eine Versammlung der Aktionäre
 -	**wählt den Aufsichtsrat**
+-	Stimmrecht bemisst sich nach den Aktiennennbeträgen
+-	da in der Regel nicht alle Kleinaktionäre die Hauptversammlung besuchen, reicht hier meist eine Mehrheit von ca. 35%
 
-*TODO : vervollständigen*
+###### Aufgaben der Hauptversammlung
+
+-	Wahl der Aufsichtsratsmitglieder
+-	Satzungsänderungen (u.a. Kapitalerhöhung)
+	-	3/4 Mehrheit
+-	Verwendung des Bilanzgewinns
+
+#### Aktien
+
+-	Das Grundkapital der Aktiengesellschaft ist in Aktien zerlegt
+-	die Aktie verbrieft einen bestimmten Anteil am Grundkapital
+-	Rechte
+	-	Recht auf Gewinnanteile
+	-	Liquidationserlöse
+	-	Stimmrecht
+-	Pflichten
+	-	Zahlung des Aktienbetrags
+
+#### Kapitalerhöhung
+
+Benötigt die AG zusätzliches Eigenkapital, kann sie dies durch eine Kapitalerhöhung, d.h. **durch Ausgabe neuer (junger) Aktien**, beschaffen. Hierzu ist **eine Satzungsänderung**, also ein Beschluss der Hauptversammlung mit **3/4 Mehrheit** notwendig. Die Kapitalerhöhung bewirkt einen Zugang flüssiger Mittel in Höhe des Ausgabebetrages mal Anzahl der Aktien. Stammaktionäre haben auf die neuen Aktien ein Vorkaufsrecht. (D.h. wenn alle Aktionäre ihr Vorkaufsrecht wahrnehmen, gibt es keine neuen Aktionäre).
+
+Beispiel:
+
+```
+Grundkapital: 100000 Aktien * 1€ = 100000€
+Kapitalerhöhung um 50000 Aktien * 4€ = 200000€
+```
 
 ### Ltd.
 
 -	gründbar mit 1 Pfund
 -	trotzdem beschränkte Haftung
 
-*TODO : vervollständigen*
-
 Mischgesellschaften (Personen- & Kapitalgesellschaften)
 -------------------------------------------------------
 
 #### GmbH & Co. KG
+
+-	ist eine Kommanditgesellschaft bei der der Komplementär eine GmbH ist
+-	es gibt keine natürliche Person mehr, die mit dem Privatvermögen haftet
