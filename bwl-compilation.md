@@ -564,9 +564,112 @@ Im Gegensatz zur *Stichtagsinventur* (am letzten Tag des Geschäftsjahres) sind 
 |                       ***Investitionsseite***                        |        ***Finanzierungsseite***        |
 |                          *Mittelverwendung*                          |            *Mittelherkunft*            |
 | Wie wurde das verfügbare Kapital (die vorhandenen Mittel) verwendet? | Wo kommen die finanziellen Mittel her? |
+|                      Bestand des **Vermögens**                       |        Bestand des **Kapitals**        |
 
 Doppelte Buchführung
 --------------------
+
+### Veränderung der Bilanz durch Geschäftsvorfälle
+
+**Geschäftsvorfälle verändern die Positionen der Bilanz.**
+
+-	**Aktivtausch**
+	-	eine Aktivposition nimmt zu, eine andere Aktivposition nimmt ab
+	-	Bsp: Kunde begleicht fällige Rechnung durch Banküberweisung (Zunahme Bank(A), Abnahme Forderung aus Lieferungen und Leistungen(A))
+-	**Passivtausch**
+	-	eine Passivposition nimmt zu, eine andere Passivposition nimmt ab
+	-	Bsp: Vereinbarung mit Lieferanten, dass kurzfristige Verbindlichkeiten in langfristiges Darlehen umgewandelt werden (Zunahme Darlehen(P), Abnahme Verbindlichkeiten a. LL. (P))
+-	**Aktiv-Passiv-Mehrung**
+	-	es erhöhen sich beide Seiten der Bilanz
+	-	Bsp: Kauf eines Firmenwagens mit Zahlungsziel 3 Wochen (Zunahme Fuhrpark(A), Zunahme Verbindlichkeiten a.LL. (P))
+-	**Aktiv-Passiv-Minderung**
+	-	es veringern sich beide Seiten der Bilanz
+	-	Bsp: Überweisung von Geld an unseren Lieferanten zum Ausgleich fälliger Rechnung (Abnahme Bank(A), Abnahme Verbindlichkeiten a.LL. (P))
+
+### Auflösung der Bilanz in Bestandskonten
+
+Die **aus der Bilanz abgeleiteten** Konten bezeichnet man als Bestandskonten. Hierbei unterscheidet man zwischen **Aktivkonten** und **Passivkonten**.
+
+-	**Zugänge immer auf der selben Seite wie den Anfangsbestand** buchen
+-	**Abgänge stehen auf der entgegengesetzten Seite der Zugänge** (Abgänge sind das Gegenteil von Zugängen)
+
+#### Aktivkonten
+
+-	Anlagevermögen und Umlaufvermögen
+
+| Soll               | Haben   |
+|:-------------------|:--------|
+| Anfangsbestand(AB) | Abgänge |
+| Zugänge            |         |
+
+#### Passivkonten
+
+-	Eigenkapital und Fremdkapital
+
+| Soll    | Haben              |
+|:--------|:-------------------|
+| Abgänge | Anfangsbestand(AB) |
+|         | Zugänge            |
+
+### Buchen auf Bestandskonten
+
+1.	Zu Beginn des Geschäftsjahres müssen die **Konten eröffnet werden**. Hierzu werden die in der Bilanz ausgewiesenen **Anfangsbestände in den Konten eingetragen**.
+2.	Während des Jahres muss das Unternehmen die auftretenden Geschäftsfälle auf den verschiedenen Konten erfassen
+3.	Am **Ende des Geschäftsjahres** wird für jedes Konto der **Schlussbestand** errechnet.
+	-	hierzu ermittelt man die Differenz(Saldo) zwischen der Summe der Spalten Soll und Haben...
+	-	... und trägt den Saldo **auf der Kontoseite mit dem kleineren Wert ein**.
+	-	auf beiden Seiten des Kontos steht nun der selbe Wert
+	-	Saldo ist für das Schlussbilanzkonto (SBK)
+
+***Was ich auf der einen Seite im Soll buche, muss Ich auf der anderen Seite im Haben buchen und umgekehrt.***
+
+#### Buchungssatz
+
+*TODO: FILL ME*
+
+### Eröffnungsbilanzkonto (EBK)
+
+Das Eröffnungsbilanzkonto(EBK) ist ein Hilfskonto, damit die Anfangsbestände bei der Konteneröffnung korrekt auf zwei Konten gebucht werden können. (Doppelte Buchführung bedeutet buchen auf zwei Konten und die *Bilanz ist kein Konto*). **Das EBK ist das genaue Spiegelbild der Eröffnungsbilanz**.
+
+Wenn Ich z.B. das Konto BGA(Aktiv) mit einem Anfangsbestand von 1000€ eröffnen will dann:
+
+1.	Trage Ich EBK 1000€ beim Konto BGA auf Soll - Seite ein (weil Aktivkonto)
+2.	Trage Ich GBA 1000€ beim Konto EBK auf der Haben - Seite ein
+
+**BGA**
+
+| Soll     | Haben |
+|:---------|:------|
+| EBK 1000 |       |
+
+**EBK**
+
+| Soll | Haben    |
+|:-----|:---------|
+|      | BGA 1000 |
+
+### Schlussbilanzkonto (SBK)
+
+Zum Ende eines Geschäftsjahres werden die Konten abgeschlossen. Dazu wird
+
+1.	Der Saldo ermittelt
+	-	Differenz zwischen Soll und Haben
+2.	Der Saldo wird als SBK Posten auf die wertmäßig kleinere Seite des Kontos geschrieben
+3.	Im Schlussbilanzkonto wird es dann auf der gegenüberliegenden Seite gebucht
+
+**BGA**
+
+| Soll     | Haben    |
+|:---------|:---------|
+| EBK 1000 | SBK 1000 |
+
+**SBK**
+
+| Soll     | Haben |
+|:---------|:------|
+| BGA 1000 |       |
+
+*Wenn alles richtig gebucht wurde, ergeben beide Seiten des SBK die gleiche Summe.*
 
 Kosten und Leistungsrechnung (KLR)
 ==================================
