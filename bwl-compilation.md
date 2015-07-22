@@ -1378,3 +1378,51 @@ Zusammenarbeit mit Freiberuflern
 -	Nachteile
 	-	keine Lohnfortzahlung im Krankheitsfall
 	-	fehlende Sicherheit
+
+Innovationsmanagement
+=====================
+
+Eine Innobation ist die **erstmalige wirtschaftlich erfolgreiche Anwendung einer Problemlösung.** Dabei kann es sich um **Produktinnovationen, Prozessinnovationen, Sozialinnovationen oder Strukturinnovationen** handeln.
+
+Aufgaben des Innovationsmanagementes
+------------------------------------
+
+-	Innovationsziele festlegen
+-	Innovationsprozesse planen, steuern und kontrollieren
+-	innovationsfördernde Organisationsstruktur und -kultur mit entsprechenden sozialen Beziehungen schaffen
+
+Markteintrittsstrategien
+------------------------
+
+-	**Pionierstrategie**
+	-	Pionier kann aufgrund der Monopolstellung die Zahlungsbereitschaft vor allem bei innovationsfreudigen Erstkäufern optimal abschöpfen
+	-	Erfahrungsvorsprung gegenüber Wettbewerbern erlangen
+	-	Imagevorteile
+	-	hohe Unsicherheit bezüglich Kosten und der Nachfrage
+-	**Strategie der frühen Folger**
+	-	Markteintritt kurze Zeit nach dem Pionier
+	-	manchmal Verdrängung des Pioniers möglich
+		-	unzureichende Kundenbindung
+		-	fehlende Verbesserung des Produkts durch den Pionier
+-	**Strategie der späten Folger**
+	-	sicherere Prognose der Marktentwicklung und des Käuferverhaltens
+	-	Produktmängel können weitgehend vermieden werden
+	-	häufig Immitationsstrategie
+		-	Leistungen zu niedrigen bzw. wettbewerbsfähigeren Preisen
+		-	entscheidend ist hier konsequente Niedrigpreispolitik in Verbindung mit leistungsfähiger Werbung
+
+Innovationsprozess
+------------------
+
+-	**Ideensammlung**
+	-	zurückgreifen auf bereits bestehende Ideen
+		-	Veröffentlichungen
+		-	Kunden
+		-	Mitarbeiter
+		-	Wettbewerber
+-	**Ideengenerierung**
+	-	Brainsotrming
+	-	Ideen sammeln
+	-	Ideen bewerten
+
+Produkteigenschaften müssen sich an den Kundenwünschen orientieren. Dabei muss berücksichtigt werden, welche Leistungsmerkmale die Kunden in welchem Umfang zu zahlen bereit sind.
