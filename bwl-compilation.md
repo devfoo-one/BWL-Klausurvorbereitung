@@ -803,7 +803,7 @@ Beispiel: *Abschreibung eines Firmenwagens zum Jahresende mit 5000€ (30000€ 
 |:-------------------|:----------------------------------|
 | Verb. a. LL. 30000 | Abschreibung auf Sachanlagen 5000 |
 
-*Nach Abschluss der Konten ist die Karre im nächsten Geschäftsjahr nur noch 25000€ wert*
+*Nach Abschluss der Konten ist die Karre im nächsten Geschäftsjahr nur noch 25000€ wert*. Kann jedoch nur **auf 1€ runtergehen, nicht auf 0**.
 
 Kosten und Leistungsrechnung (KLR)
 ==================================
@@ -885,6 +885,32 @@ Stufen der Kosten und Leistungsrechnung
 #### Erfassung der kalkulatorischen Kosten
 
 ##### Kalkulatorische Abschreibungen
+
+Die Berechnung der Abschreibung erfolgt in der Finanzbuchhaltung nach gesetzlichen Vorschriften und steuerlichen Aspekten. Diese **spielen jedoch bei der internen Kostenermittlung keine Rolle**. Die Unterschiede:
+
+| **Abschreibungsaufwand** (bilanzielle Abschreibung, FIBU)                               | **Abschreibungskosten** (kalkulatorische Abschreibung, KLR)                      |
+|:----------------------------------------------------------------------------------------|:---------------------------------------------------------------------------------|
+| **alle** abnutzbaren Güter werden abgeschrieben                                         | **nur die betriebsnotwendigen** abnutzbaren Anlagegüter werden abgeschrieben (1) |
+| ausgehend von **Anschaffungs- und Herstellungskosten**                                  | ausgehend von **Wiederbeschaffungswerten** (2)                                   |
+| Abschreibung bis zum **Erinnerungswert von 1€**                                         | Abschreibung **solange die Nutzung erfolgt** (3)                                 |
+| **gesetzlich vorgeschriebene** Abschreibungsmethodenk insbesondere lineare Abschreibung | lineare oder leistungsabhängige Abschreibung (4)                                 |
+
+1.	KLR erfasst nur betriebliches Geschehen, daher werden nur betriebliche eingesetzte Anlagegüter beschrieben
+2.	Will ein Unternehmen langfristig überleben, muss es kostendeckende Preise gestalten die ausreichen um die Substanz des Unternehmens zu erhalten. Durch Umsatzerlöse müssen soviel Abschreibungsbeträge zurückfließen, dass das Anlagegut, nach Ablauf der Nutzungsdauer, neu gekauft werden kann. Deshalb wird mit Wiederbeschaffungswerten gerechnet.
+3.	Da die Kosten den betriebsbedingten Werteverzehr erfassen sollen, werden Anlagegüter so lange abgeschrieben, wie sie genutzt werden
+4.	Ziel ist es die Wertminderung realistisch zu erfassen. bei gleichmäßiger Nutzung = linear, beu unregelmäßiger Nutzung = leistungsabhängig
+
+**Beispiel:** *Eine Maschine wurde für 50.000€ netto angeschaffft. Der Neupreis liegt inzwischen bei 54.000€ netto. Nutzungsdauer lt. AfA 10 Jahre. Intern wird jedoch auf 8 Jahre geschätzt. Der Betrieb geht davon aus, dass die Maschine nach 8 Jahren für 8.000€ verkauft werden kann*
+
+```
+                                  Anschaffungskosten            50.000€
+bilanzielle Abschreibung = -------------------------------- = ---------- = 5.000€ / Jahr
+                            Nutzungsdauer laut AfA-Tabelle     10 Jahre
+
+							     Wiederbeschaffung - Restwert       54.000€ - 8.000€
+kalkulatorische Abschreibung = --------------------------------- = ------------------ = 5.750€ / Jahr
+					            intern geschätzte Nutzungsdauer          8 Jahre
+```
 
 ##### Kalkulatorische Zinsen
 
