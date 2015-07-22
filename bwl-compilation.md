@@ -1144,3 +1144,88 @@ Die Gesamtkapitalrendite gibt an, **welchen prozentualen Beitrag das eingesetzte
 ### Leverage-Effekt
 
 Durch zunehmende Verschuldung kann die Eigenkapitalrentabilität immer weiter erhöht werden, so lange die Gesamtkapitalrentabilität über dem Fremdkapitalzinssatz liegt. Ich kann also meine Eigenkapitalrentabilität steigern in dem Ich mir weiteres Geld leihe. Ich muss nur aufpassen dass meine Gesamtkapitalrentabilität noch die Zinsen dafür abdeckt.
+
+Betriebsorganisation
+====================
+
+Aufbauorganisation
+------------------
+
+1.	Zerlegung der Gesamtaufgabe in Teilaufgaben (Aufgabenanalyse)
+2.	Zusammenfassung von Teilaufgaben zu einer Stelle (Stellenbildung)
+3.	Zusammenfassung ähnlicher Stellen zu größeren Einheiten (z.B. Abteilungen)
+4.	Regelung der Beziehungen zwischen den Aufgabenträgern
+
+**Eine Stelle** ist die kleinste organisatorische Einheit eines Betriebs. Eine **Instanz** ist eine Stelle mit Weisungsbefugnis.
+
+### Einliniensystem
+
+-	jeder MA hat nur **einen unmittelbaren Vorgesetzten**
+-	**Vorteile**
+	-	klare Befehlswege
+	-	eindeutige Kompetenzabgrenzung
+-	**Nachteile**
+	-	Überlastung der Führungskräfte
+	-	lange Informationswege
+	-	schwerfällig und unflexibel
+
+### Stabliniensystem
+
+-	Einliniensystem, ergänzt mit Stabsstellen
+-	Stabsstellen werden mit Spezialisten besetzt, beraten die Führungskräfte, haben aber keine Weisungsbefugnis
+-	**Vorteile**
+	-	Entlastung der Führungskräfte
+	-	Gefahr von Fehlentscheidungen wird verringert
+-	**Nachteile**
+	-	höhere Kosten
+	-	ein autoritärer Führungsstil wird eventuell verstärkt, da Vorgesetzte weniger auf die Beratung durch die Mitarbeiter angewiesen sind
+
+### Matrixsystem
+
+-	Sonderform des Mehrliniensystems
+-	Mitarbeiter haben **gleichzeitig 2 unmittelbare Vorgesetzte**
+-	2 Befehlswege bzw. Hierarchien überschneiden sich
+	-	eine Hierarchie ist nach **Objekten** (z.B. Produktgruppen) geglieder
+	-	die andere nach **Verrichtungen** (Funktionen)
+-	**Vorteile**
+	-	Die Führungsspitze wird entlastet
+	-	verbesserte Koordination und Kommunikation zwischen den Unternehmensbereichen
+	-	verbesserte Problemlösungen, da unterschiedliche Blickwinkel
+-	**Nachteile**
+	-	Kompetenzprobleme wegen Überlappung der Aufgabenbereiche
+	-	hoher Zeitbedarf für Entscheidungen, da Einigung zwischen den Verantwortlichen herbeizuführen ist
+
+### Spartenorganisation
+
+-	der Leitungsspitze unterstehen **produktbezogene, relativ selbstständige Geschäftsbereiche (Sparten)**
+-	in etwa wie Unternehmen in der Unternehmung
+-	innerhalb der Sparte wiederum verschieden Organisationsformen möglich
+-	**Vorteile**
+	-	jede Sparte spezialisiert auf Produktgruppe
+	-	Sparten als kleinere Einheiten sind flexibler und leichter zu organisieren
+	-	Sparten können sich einfacher und schneller an Marktveränderungen anpassen
+-	**Nachteile**
+	-	die Nutzung von Gemeinsamkeiten fehlt
+	-	Spartenegoismus
+
+Ablauforganisation
+------------------
+
+### Ziele der Ablauforganisation
+
+-	optimale Durchlaufzeiten
+-	gleichmäßige Auslastung von Mensch und Betriebsmitteln
+-	humane Arbeitsbedingungen
+-	Einhaltung von Qualitätsnormen
+-	Einhaltung von Terminen
+
+Zwischen den Zielen bestehen i.d.R. Zielkonflikte, da die Ziele selten alle gleichzeitig erreicht werden können.
+
+### Typische Schwachstellen von Arbeitsabläufen
+
+-	häufige Unterbrechung durch unnötige Zergliederung des Gesamtvorganges
+-	lange Wegstrecken durch ungünstige Anordnungen der Tätigkeiten oder Räumlichkeiten
+-	unangemessen lange Wartezeiten im Verhältnis zu den Bearbeitungszeiten
+
+Prozessorganisation
+-------------------
