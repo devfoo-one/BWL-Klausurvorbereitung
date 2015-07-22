@@ -832,6 +832,7 @@ Stufen der Kosten und Leistungsrechnung
 	-	*welche Kosten* sind in welcher Höhe angefallen?
 -	**Kostenstellenrechnung**
 	-	*wo* sind welche Kosten in welcher Höhe angefallen?
+	-	Bindeglied zwischen Kostenartenrechung und Kostenträgerrechnung
 -	**Kostenträgerrechnung**
 	-	in welcher Höhe haben die verschiedenen Kostenträger (Produkte, Aufträge) *Kosten verursacht?*
 
@@ -941,4 +942,83 @@ nach ihrer Zurechenbarkeit zu Kostenträgern unterscheidet man zwischen **Einzel
 
 ### Kostenstellenrechnung
 
+-	ist das **Bindeglied zwischen der Kostenarten- und Kostenträgerrechnung**
+
+Gemeinkosten können nicht direkt in die Kostenträgerrechnung übernommen werden, da sie sich nicht direkt zurechnen lassen. Stattdessen werden sie indirekt, mithilfe von Prozentsätzen (Zuschlagssätze), den einzelnen Kostenträgern zugerechnet. **Diese Prozentsätze werden in der Kostenstellenrechnung ermittelt.**
+
+Die Prozentsätze werden ermittelt indem man die **Summe der Gemeinkosten, die in einer Kostenstellen angefallen sind**, zu einer **festgelegten Basis ins Verhältnis setzt.** Als Basis dienen insbesondere die Einzelkosten.
+
+Die Kostenstellenrechnung dient außerdem **der Kostenkontrolle**. Welcher Unternehmensbereich entwickelt welche Kosten -> Schuldfindung, gaaaanz wichtig für fingerpointing und so ;)
+
+#### Bildung von Kostenstellen
+
+**Eine Kostenstelle ist jeder betriebliche Bereich, für den die Kosten separat geplant, erfasst und kontrolliert werden.**
+
+Damit man immer klar einen Verantwortlichen hat, ist es wichtig dass die Kostenstellen mit den Zuständigkeitsbereichen um Unternehmen übereinstimmen. Zum Beispiel Material, Fertigung, Vertrieb, Verwaltung.
+
+##### Ablauf / der Betriebsabrechnungsbogen
+
+1.	Die Gemeinkosten aus der Kostenartenrechnung weren übernommen und aufgelistet
+2.	Die Gemeinkosten werden **auf Kostenstellen verteilt**
+	-	entweder über genaue Daten wie z.B. Gehälter
+	-	oder über Verteilungsschlüssel wie z.B. Miete nach Quadratmeter
+3.	Wenn alle Gemeinkosten verteilt sind, wird für jede Kostenstelle die Summe gebildet. (Summe der Geminkosten pro Kostenstelle)
+4.	anhand dieser Summen kann man nun Prozentwerte ausrechnen und die Gemeinkosten verteilen
+
 ### Kostenträgerrechnung
+
+-	**Vorkalkulation**
+	-	erfolgt anhand von Normal- und Plankosten
+	-	Ermittlung der Selbstkosten vor der Leistungserstellung
+	-	Rechnung mit Normalzuschlagssätzen (durchschnittliche Zuschlagssätze der vergangenen Monate)
+-	**Nachkalkulation**
+	-	nach Erledigung des Auftrags
+	-	Kontrolle mit tatsächlich angefallenen Istkosten
+
+### Deckungsbeitragsrechnung
+
+#### Deckungsbeitrag
+
+Gibt an, in welchem Umfang ein Produkt zur **Deckung der fixen Kosten beiträgt.** Jeder Auftrag mit **positivem Deckungsbeitrag wird angenommen**. Jedes Produkt mit **positivem Deckungsbeitrag bleibt im Sortiment.**
+
+##### Deckungsbeitrag pro Stück
+
+Der **Deckungsbeitrag pro Stück** gibt an, **was vom Verkaufspreis, nach Abzug der variablen Kosten pro Stück, übrig bleibt zur Deckung der fixen Kosten.**
+
+`Deckungsbeitrag pro Stück = Nettoverkaufspreis - variable Stückkosten`
+
+Jedes Produkt mit positivem Deckungsbeitrag sollte im Produktionsprogramm bzw. Sortiment bleiben.
+
+##### Deckungsbeitrag pro Periode
+
+Multipliziert man den **Deckungsbeitrag pro Stück** mit **Menge** pro Periode (z.B. Monat), erhält man den Deckungsbeitrag pro Periode für dieses Produkt.
+
+#### kurzfristige Preisuntergrenze
+
+**kurzfristige Preisuntergrenze =** ***variable Kosten pro Stück***
+
+Kurzfristig kann man, um z.B. einen Kundenauftrag zu gewinnen, den Preis senken. Die kurzfristige Preisuntergrenze **entspricht den variablen Kosten pro Stück**. Für kurzfristige Entscheidungen sind die fixen Kosten nicht relevant, da sie kurzfristig nicht abgebaut werden können.
+
+#### langfristige Preisuntergrenze
+
+**langfristige Preisuntergrenze =** ***Fixkosten pro Stück + variable Kosten pro Stück***
+
+Langfristig muss der Preis die Kosten decken.
+
+```markdown
+= Fixkosten pro Stück + variable Kosten pro Stück
+= (Fixkosten / erhoffte Stückzahl pro Periode) + variable Kosten pro Stück
+```
+
+**Beispiel**: (Fixkosten pro Monat = 20.000€, variable Kosten pro Stück = 150€) Welche langfristige Preisuntergrenze darf ich nicht unterschreiten wenn Ich pro Monat 500 Stück verkaufe?
+
+```markdown
+Fixkosten pro Stück = 20.000€ / 500 = 40€
+langfristige Preisuntergrenze = 40€ + 150€ = 190€
+```
+
+#### Break Even Point
+
+**BEP = Fixkosten / Deckungsbeitrag pro Stück**
+
+Der Break Even Point, oder *die Gewinnschwelle* gibt an, bei welcher Menge man keine Verluste mehr erzielt.
