@@ -775,9 +775,35 @@ Der Unternehmer **kassiert vom Kunde die Umsatzsteuer** und **führt diese ans F
 	-	*(Verbindlichkeit gegenüber dem Finanzamt)*
 	-	Das Umsatzsteuerkonto ist, genau wie Verbindlichkeiten a. LL. ein **Passivkonto**
 
+*Vorsteuer und Umsatzsteuer sind* ***Bestandskonten***, *keine Erfolgskonten*
+
 Die Differenz der beiden Konten entsprich der Zahlllast. Zum Monatsende werden die beiden Konten Vorsteuer und Umsatzsteuer miteinander verrechnet. In den meisten Fällen wird die gebuchte Umsatzsteuer höher sein als die gebuchte Vorsteuer. In diesem Fall stellt die Differenz die Zahllast dar. Das Unternehmen muss bis zum 10. des Folgemonats die Umsatzsteuervoranmeldung beim Finanzamt einreichen.
 
 Am Jahresende werden die Vorsteuer- und Umsatzsteuerkonten miteinander verrechnet. (Das Konto mit dem kleineren Saldo wird über das Konto mit dem größeren Saldo abgeschlossen). Das verbleibende Konto wird, wie alle Bestandskonten, über SBK abgeschlossen.
+
+Abschreibung
+------------
+
+Die Abschreibung ist **die lineare Wertminderung pro Jahr**. Wenn ein Gut im Durchschnitt 3 Jahre genutzt wird, dann kann man jedes Jahr 1/3 des Wertes absetzen. (Siehe AfA Tabellen, AfA = Absetzung für Abnutzung). Da Anlagegüter mehrere Jahre genutzt werden können, wäre es unlogisch im ersten Jahr bereits die gesamten Anschafungskosten als Aufwand zu buchen und im nächsten Jahr nichts mehr. Deshalb werden **Anschaffungskosten über die betriebsgewöhnliche Nutzungsdauer verteilt.**
+
+-	**Abschreibungen erfassen die jährliche Wertminderung** des abnutzbaren Anlagevermögens
+-	wie alle Aufwendungen werden diese im Soll gebucht
+
+Beispiel: *Abschreibung eines Firmenwagens zum Jahresende mit 5000€ (30000€ / 6 Jahre)*
+
+**Konto Abschreibungen auf Sachanlagen**
+
+| Soll          | Haben |
+|:--------------|:------|
+| Fuhrpark 5000 |       |
+
+**Konto Abschreibungen auf Sachanlagen**
+
+| Soll               | Haben                             |
+|:-------------------|:----------------------------------|
+| Verb. a. LL. 30000 | Abschreibung auf Sachanlagen 5000 |
+
+*Nach Abschluss der Konten ist die Karre im nächsten Geschäftsjahr nur noch 25000€ wert*
 
 Kosten und Leistungsrechnung (KLR)
 ==================================
