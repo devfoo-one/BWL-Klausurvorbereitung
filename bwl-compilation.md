@@ -814,3 +814,86 @@ Kosten und Leistungsrechnung (KLR)
 -	**freiwillig**
 
 *Warum brauche Ich neben der Finanzbuchhaltung eine Kosten- und Leistungsrechnung?* : Das Finanzamt interessiert nicht ob Ich mit Tischen, Stühlen oder Schränken Gewinn mache. Aber mich interessiert das intern.
+
+Aufgaben der Kosten- und Leistungsrechnung
+------------------------------------------
+
+-	**Bestimmung von Preisuntergrenzen**
+	-	*wie hoch muss ein kostendeckender Verkaufspreis mindestens sein?*
+-	**Ermittlung des optimalen Produktionsprogrammes**
+	-	*Welche Produkte lohnen sich am meisten?*
+-	**Kurzfristige und detaillierte Erfolgsrechnungen**
+	-	*Wie hoch ist das Betriebsergenis diesen Monat?*
+
+Stufen der Kosten und Leistungsrechnung
+---------------------------------------
+
+-	**Kostenartenrechnung**
+	-	*welche Kosten* sind in welcher Höhe angefallen?
+-	**Kostenstellenrechnung**
+	-	*wo* sind welche Kosten in welcher Höhe angefallen?
+-	**Kostenträgerrechnung**
+	-	in welcher Höhe haben die verschiedenen Kostenträger (Produkte, Aufträge) *Kosten verursacht?*
+
+### Kostenartenrechnung
+
+#### Abgrenzungsrechnung
+
+-	**Aufwendungen**
+	-	**neutraler Aufwand**
+		-	**betriebsfremder Aufwand**
+			-	kein Zusammenhang mit dem eigentlichen Betriebszweck
+			-	werden deshalb nicht in betriebsbezogene Kostenrechnung übernommen
+			-	Beispiel: anonyme Spende, Verluste durch Börsenspekulationen
+		-	**außerordentlicher Aufwand**
+			-	fallen zwar im Rahmen des betrieblichen Leistungsprozesses an, jedoch *einmalig oder sehr unregelmäßig*
+			-	in die Kostenrechnung gehen nur Aufwendungen ein, die regelmäßig (damit kalkulierbar und planbar sind)
+			-	Beispiel: Unfallschaden am Firmenwagen
+		-	**periodenfremder Aufwand**
+			-	Ursache der Entstehung liegt *nicht in der aktuellen Periode*
+			-	Beispiel: Wenn Unternehmen im April für das abgelaufene Jahr Gewerbesteuer nachzahlen muss, sind das keine Kosten vom April
+	-	**Zweckaufwand**
+		-	**Grundkosten**
+			-	die meisten Aufwendungen fallen *regelmäßig im Rahmen des Leistungsprozesses* an und werden deshalb unverändert als Kosten übernommen
+			-	Beispiel: Überweisung der Miete und Gehälter für den laufenenden Monat
+		-	**kalkulatorische Kosten**
+			-	**Anderskosten**
+				-	stehen zwar Aufwendungen in der Finanzbuchhaltung gegenüber, jedoch unterscheiden sich die Werte
+				-	**kalkulatorische Abschreibungen**
+				-	**kalkulatorische Zinsen**
+				-	**kalkulatorische Wagnisse**
+			-	**Zusatzkosten**
+				-	ihnen steht kein Aufwand in der Finanzbuchhaltung gegenüber
+				-	**kalkulatorischer Unternehmerlohn**
+				-	**kalkulatorische Miete**
+-	**Leistungen**
+	-	**Neutrale Erträge**
+		-	werden nicht in die interne Leistungsrechnung übernommen
+		-	**Betriebsfremde Erträge**
+			-	stehen in keinem Zusammenhang mit dem eigentlichen Betriebszweck
+			-	Beispiel: Zinserträge eines Elektrogeschäfts
+		-	**Außerordentliche Erträge**
+			-	fallen zwar im Rahmen des betrieblichen Leistungsprozesses an, jedoch *einmalig oder sehr unregelmäßig*
+			-	Beispiel: Verkauf einer Maschine über dem Buchwert
+		-	**periodenfremde Erträge**
+			-	Ursache der Entstehung liegt *nicht in der aktuellen Periode*
+			-	Beispiel: Steuerrückerstattung für das vergangene Geschäftsjahr
+	-	**Grundleistungen**
+		-	können unverändert in die Leistungsrechnung übernommen werden
+		-	Beispiel: Umsatzerlöse für Fertigungserzeugnisse
+
+#### Erfassung der kalkulatorischen Kosten
+
+##### Kalkulatorische Abschreibungen
+
+##### Kalkulatorische Zinsen
+
+#### Gliederung der Kosten
+
+##### Zurechenbarkeit der Kosten zu den Kostenträgern
+
+##### Verhalten der Kosten bei Beschäftigungsveränderungen
+
+### Kostenstellenrechnung
+
+### Kostenträgerrechnung
