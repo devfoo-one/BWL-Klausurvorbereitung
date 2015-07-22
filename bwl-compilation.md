@@ -699,7 +699,7 @@ Zum Ende eines Geschäftsjahres werden die Konten abgeschlossen. Dazu wird
 
 ### Buchen auf Erfolgskonten
 
-Um den Unternehmenserfol ermitteln zu können, benötigt die Finanzbuchhaltung alle Aufwendungen und Erträge des Geschäftsjahres. Das Eigenkapitalkonto blieb bis jetzt stehts unverändert. Dies lag daran, dass alle bisher gebuchten Geschäftsvorfälle sich nicht auf den Unternehmenserfolg ausgewirkt haben. Die Erfolgskonten werden unterteilt in:
+Um den Unternehmenserfolg ermitteln zu können, benötigt die Finanzbuchhaltung alle Aufwendungen und Erträge des Geschäftsjahres. Das Eigenkapitalkonto blieb bis jetzt stehts unverändert. Dies lag daran, dass alle bisher gebuchten Geschäftsvorfälle sich nicht auf den Unternehmenserfolg ausgewirkt haben. Die Erfolgskonten werden unterteilt in:
 
 -	Aufwandskonten (negativ für den Gewinn)
 	-	z.B. Verbrauch von Heizöl und Rohstoffen, Lohn- und Gehaltszahlungen
@@ -1087,18 +1087,60 @@ Anlagendeckungsgrad II = ------------------------------------------- * 100 = x %
                                     Anlagevermögen
 ```
 
-Da das Anlagevermögen langfristig gebunden ist, sollte es i.d.R. auch langfristig finanziert werden. *Der Deckungsgrad II sollte mindestens 100% betragen.\*\*
+Da das Anlagevermögen langfristig gebunden ist, sollte es i.d.R. auch langfristig finanziert werden. *Der Deckungsgrad II sollte mindestens 100% betragen.*
 
 Cash Flow
 ---------
 
+Der Cash Flow ist eine Kennzahl, die angibt welchen **Geldzufluss ein Unternehmen in einer Periode aus dem Umsatzprozess erwirtschaftet hat**, und was somit während des Jahres für Invenstitionen, Tilgungszahlungen oder Gewinnausschüttungen zur Verfügung steht. Er ist der **Maßstab für die Innenfinanzierungskraft** eines Unternehmens und zeigt **die finanzielle Unabhängigkeit von außenstehenden Geldgebern** an.
+
+```markdown
+  Jahresüberschuss
++ nicht auszahlungswirksame Aufwendungen
+- nicht einzahlungswirksame Erträge
+= Cash Flow
+```
+
+-	**nicht auszahlungswirksame Aufwendungen**
+	-	z.B Abschreibungen
+-	**nicht einzahlungswirksame Erträge**
+	-	z.B. Erträge aus der Auflösung von Rückstellungen
+
 Rendite
 -------
 
+**Rendite = Gewinn in Prozent**
+
 ### Umsatzrendite (Umsatzrentabilität)
+
+```markdown
+                    Gewinn
+Umsatzrendite = -------------- * 100 = x %
+                 Umsatzerlöse
+```
+
+Eine Umsatzrendite von 10% bedeutet, dass pro Euro Umsatz 10cent Gewinn gemacht wurden.
 
 ### Eigenkapitalrendite (Eigenkapitalrentabilität)
 
+```markdown
+                          Gewinn
+Eigenkapitalrendite = -------------- * 100 = x %
+                       Eigenkapital
+```
+
+Die Eigenkapitalrendite eines Unternehmens gibt an, **wie viel % Gewinn auf das eingesetzte Eigenkapital entfällt**. Sie zeigt die **Verzinsung des Eigenkapitals an.** (Als hätte man das Eigenkapital auf angelegt.) *In der aktuellen Situation ist alles unter 5% doof, ab 10% ist schon gut.*
+
 ### Gesamtkapitalrendite (Gesamtkapitalrentabilität)
 
+```markdown
+                        Gewinn + Fremdkapitalzinsen
+Gesamtkapitalrendite = ----------------------------- * 100 = x %
+                              Gesamtkapital
+```
+
+Die Gesamtkapitalrendite gibt an, **welchen prozentualen Beitrag das eingesetzte Gesamtkapital erwirtschaftet hat.** Die Fremdkapitalzinsen sind dem Gewinn hinzuzurechnen, da sie in der gleichen Periode erwirtschaftet worden sind, aber den GEwinn schmälern. Sie ist die **gemeinsame Rendite der eigen- und Fremdkapitalgeber.**
+
 ### Leverage-Effekt
+
+Durch zunehmende Verschuldung kann die Eigenkapitalrentabilität immer weiter erhöht werden, so lange die Gesamtkapitalrentabilität über dem Fremdkapitalzinssatz liegt. Ich kann also meine Eigenkapitalrentabilität steigern in dem Ich mir weiteres Geld leihe. Ich muss nur aufpassen dass meine Gesamtkapitalrentabilität noch die Zinsen dafür abdeckt.
