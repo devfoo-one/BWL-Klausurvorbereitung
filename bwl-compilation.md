@@ -1319,13 +1319,40 @@ Vroom versucht anhand der Faktoren **Valenz, Instrumentalität und Erwartung** z
 Mitarbeitergespräch
 -------------------
 
+Das Mitarbeitergespräch ist ein Gespräch zwischen Mitarbeiter und dem unmittelbaren Vorgesetzten. Es ist ein wichtiges Instrument der personalführung und Personalentwicklung.
+
 ### Gegenstand und Ziel des Gesprächs
+
+-	Herabsetzung von Sprach- und Kommunikationsbarrieren
+-	Wo muss und wie kann der MA seine beruflichen Kompetenzen verbessern?
+-	Wie können Arbeitsbedingungen und Arbeitszufriedenheit verbessert werden?
+-	Individualziele und Unternehmensziele sollen angenähert und miteinander verbunden werden
+-	Wie kann der Informationsfluss und die Organisation verbessert werden?
+-	...
 
 ### Vorbereitung
 
+-	zeitliche Planung (Terminvereinbarung mindestens 2 Wochen vorher)
+-	Raumplanung
+	-	angenehme Atmosphäre
+	-	keine Störungen
+	-	nicht am Schreibtisch des Vorgesetzten, da dass die Distanz erhöht
+-	Gesprächsvorbereitung
+	-	beide Seiten sollen ihre Anliegen und Fragen sammeln
+
 ### Durchführung
 
+-	das Gespräch sollte von gegenseitiger Achtung und Einfühlungsvermögen geprägt sein
+	-	Schuldzuweisungen und Ermahnungen sollten vermieden werden
+-	Verwendung vorhandener Checklisten
+-	realistische, messbare, terminierte und akzeptierte Ziele entwickeln
+-	Diese Ziele schriftlich festhalten
+
 ### Probleme
+
+-	Gespräch darf auf keinen fall als Teil traditioneller, hierarchisch autoritärer Strukturen empfunden werden
+-	Mitarbeiter muss über Sinn und Ablauf des Gesprächs informiert werden
+-	kein pro-forma Gespräch führen, dies könnte die MA demotivieren und die Beiehung zwischen MA und Vorgesetzten weiter verschlechtern
 
 Zusammenarbeit mit Freiberuflern
 --------------------------------
