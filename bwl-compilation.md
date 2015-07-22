@@ -924,7 +924,20 @@ Für die Berechnung der kalkulatorischen Zinsen ist die **Mittelherkunft (Eigen-
 
 ##### Zurechenbarkeit der Kosten zu den Kostenträgern
 
+nach ihrer Zurechenbarkeit zu Kostenträgern unterscheidet man zwischen **Einzel- und Gemeinkosten.**
+
+-	**Einzelkosten**
+	-	lassen sich einem bestimmten Kostenträger (Produkt, Dienstleistung, Auftrag) **direkt zurechnen**
+	-	Beispiel: Materialeinzelkosten
+-	**Gemeinkosten**
+	-	lassen sich einem bestimmten Kostenträger **nicht direkt zurechnen**
+	-	Beispiele: Betriebsstoffkosten, Gehälter, Miete
+
 ##### Verhalten der Kosten bei Beschäftigungsveränderungen
+
+**Fixe Kosten** fallen *unabhängig von der Beschäfttigungssituation* (Ausbringungsmenge) stehts in gleicher Höhe an, z.B. Miete oder feste Gehälter.
+
+**Variable Kosten** *ändern sich mit der Höhe der Beschäftigung und sind abhängig von der Ausbringungsmenge*, z.B. je mehr Produkte hergestellt werden, desto höher ist der Rohstoffverbrauch.
 
 ### Kostenstellenrechnung
 
