@@ -1022,3 +1022,83 @@ langfristige Preisuntergrenze = 40€ + 150€ = 190€
 **BEP = Fixkosten / Deckungsbeitrag pro Stück**
 
 Der Break Even Point, oder *die Gewinnschwelle* gibt an, bei welcher Menge man keine Verluste mehr erzielt.
+
+Controlling - Bilanzkennzahlen
+==============================
+
+-	wichtig für vergleichende Betrachtung für das Management in allen Unternehmensbereichen
+-	auch wichtig zur Analyse des Jahresabschlusses zur Unternehmensbewertung (auch durch Unternehmensexterne)
+
+Liquidität
+----------
+
+Diese Kennzahlen sollen **Aussage über die betriebliche Zahlungsfähigkeit machen.**
+
+### Liquidität 1. Grades
+
+```markdown
+          flüssige Mittel
+L1 = ---------------------------- * 100 = x %
+      kurzfristiges Fremdkapital
+```
+
+-	**flüssige Mittel**
+	-	bestehen vor allem aus den Positionen **Bankguthaben und Kasse**
+-	**kurzfristiges Fremdkapital**
+	-	alle Verbindlichkeiten mit einer Laufzeit < 1 Jahr , z.B. *Verbindlichkeiten a. LL.*
+
+### Liquidität 2. Grades
+
+```markdown
+      kurzfristigte Forderungen + flüssige Mittel
+L2 = --------------------------------------------- * 100 = x %
+               kurzfristiges Fremdkapital
+```
+
+Eine Liquidität 2. Grades in Höhe von X Prozent sagt aus, dass **nur X% der kurzfristigen Verbindlichkeiten durch flüssige Mittel und Kundenforderungen gedeckt sind.** *Die Liquidität 2. Grades sollte mindestens 100% betragen.*
+
+### Liquidität 3. Grades
+
+```markdown
+       kurzfristiges Umlaufvermögen
+L3 = -------------------------------- * 100 = x %
+      kurzfristige Verbindlichkeiten
+```
+
+Eiserne Reservern (Sicherheitsbestände) gehören nicht zum kurzfristigen Umlaufvermögen. *Die Liqiudität 3. Grades sollte mindestens 200% betragen.*
+
+Eigenkapitalquote
+-----------------
+
+```markdown
+       Eigenkapital
+EK = --------------- * 100 = x %
+      Gesamtkapital
+```
+
+Eine hohe Eigenkapitalquote bedeutet, **dass das Unternehmen langfristig solide finanziert ist.** *Die Eigenkapitalquote liegt in Deutschland durchschnittlich zwischen 20% - 25%. Unter 20% ist schlecht.*
+
+Anlagendeckungsgrad II
+----------------------
+
+```markdown
+                          Eigenkapital + langfristiges Fremdkapital
+Anlagendeckungsgrad II = ------------------------------------------- * 100 = x %
+                                    Anlagevermögen
+```
+
+Da das Anlagevermögen langfristig gebunden ist, sollte es i.d.R. auch langfristig finanziert werden. *Der Deckungsgrad II sollte mindestens 100% betragen.\*\*
+
+Cash Flow
+---------
+
+Rendite
+-------
+
+### Umsatzrendite (Umsatzrentabilität)
+
+### Eigenkapitalrendite (Eigenkapitalrentabilität)
+
+### Gesamtkapitalrendite (Gesamtkapitalrentabilität)
+
+### Leverage-Effekt
