@@ -914,6 +914,12 @@ kalkulatorische Abschreibung = --------------------------------- = -------------
 
 ##### Kalkulatorische Zinsen
 
+Die kalkulatorischen Zinsen ergeben sich, **indem man das betriebsnotwendige Kapital mit dem derzeit am langfristigen Kapitalmarkt üblichen Zinssatz multipliziert.**
+
+**Hintergrund:** Jeder Unternehmer könnte sein Eigenkapital statt in das eigene Unternehmen auch verzinst anlegen. Diese *entgangenen Zinsgewinne* soll der Kunde aber genauso über kostendeckende Preise wiedererstatten wie die tatsächlich gezahlten Fremdkapitalzinsen.
+
+Für die Berechnung der kalkulatorischen Zinsen ist die **Mittelherkunft (Eigen- oder Fremdkapital) egal**, entscheident ist alein, dass das Kapital betrieblichen Zwecken dient.
+
 #### Gliederung der Kosten
 
 ##### Zurechenbarkeit der Kosten zu den Kostenträgern
