@@ -1229,3 +1229,125 @@ Zwischen den Zielen bestehen i.d.R. Zielkonflikte, da die Ziele selten alle glei
 
 Prozessorganisation
 -------------------
+
+Mit wachsender Größe eines Unternehmens und zunehmender Arbeitsteilung nehmen auch die Schnittstellen zu. Schnittstellen sind die Übergänge von einer Organisationseinheit zu einer anderen. Funktionsorientierte Organisation führt zu vielen Schnittstellen. **Durch prozessorientierte Organisation werden Schnittstellenprobleme verringert, indem der gesamte Geschäftsprozess von einer Arbeitsgruppe erledigt wird und für jeden Geschäftsprozess ein Prozessverantwortlicher bestimmt wird.** Kunden haben so nur einen Ansprechpartner. Die Aufteilung der Aufgaben auf die Mitarbeiter sollte durch die Mitarbeiter selbst erfolgen. Dies setzt vielseitig einsetzbare Mitarbeiter vorraus.
+
+Personalführung
+===============
+
+Motivation
+----------
+
+**Motiv:** *Beweggrund für menschliches Verhalten*
+
+-	die jeweiligen Arbeitsaufgaben sind so zu gestalten, dass sich der Einzelne mit den Zielen der Organisation identifizieren kann.
+-	Motivation dient der Bindung der Mitarbeiter an das Unternehmen
+-	Einbindung der Mitarbeiter in notwendige Veränderungsvorhaben
+
+### intrinsisch / extrinsisch
+
+-	**intrinsische Motivation**
+	-	beruht auf vom Einzelnen selbst besetimmten Faktoren
+	-	**langfristige Wirkung**
+	-	Beispiele:
+		-	streben nach verantwortungsvollen Tätigkeiten
+		-	Entscheidungsfreiheiten
+		-	persönliche Entwicklungsmöglichkeiten
+		-	interessante Arbeitsinhalte
+-	**extrinsische Motivation**
+	-	Faktoren werden von Dritten, z.B. vom Vorgesetzten, vorgegeben mit dem Ziel, jemanden zu einem gewünschten Verhalten zu motivieren
+	-	**stärkerer, kurzfristiger Effekt**
+	-	Beispiele
+		-	Gehalteserhöhung
+		-	Belobigungen
+		-	Beförderungen
+		-	aber auch Bestrafungen
+
+### Inhaltstheorien der Motivation
+
+-	versuchen zu erklären, **was in einer Person oder in seiner Umwelt Verhalten erzeugt und aufrecht erhält.**
+
+#### Hierarchie der Bedürfnisse nach Maslow
+
+-	basiert auf der Annahme, dass ein unbefriedigtes Bedürfnis Spannung erzeugt
+-	nach Maslow gibt es fünf grundlegende, aufeinander aufbauende Kategorien von Bedürfnissen:
+	-	Selbstverwirklichung
+	-	Wertschätzung
+	-	Soziale Bedürfnisse
+	-	Sicherheitsbedürfnisse
+	-	Grundbedürfnisse
+-	häufig reicht ein Befriedigungsgrad von 70%, damit das nächst höhere Bedürfnis motivierend wird
+-	je älter, umso wichtiger werden die oberen Schichten
+
+#### Zwei-Faktoren-Theorie von Herzberg
+
+Faktoren die sich positiv auf die Arbeitszufriedenheit auswirken sind völlig andere als jene, die zu Unzufriedenheit führen. **Motivatoren(intrinsisch) lösen Zufriedenheit aus und motivieren. Hygienefaktoren(extrinsisch) lösen keine Zufriedenheit aus, ihre Nichterfüllung führt jedoch zu Unzufriedenheit.**
+
+-	**Motivatoren**
+	-	die Arbeit an sich
+	-	die Möglichkeit etwas zu leisten
+	-	die Möglichkeit, sich weiter zu entwickeln
+	-	Verantwortung bei der Arbeit
+	-	Aufstiegsmöglichkeiten
+	-	Anerkennung
+-	**Hygienefaktoren**
+	-	Gestaltung äußerer Arbeitsbedingungen
+	-	Beziehung zu den Kollegen
+	-	Beziehungen zu den Vorgesetzten
+	-	Firmenpolitik und Administration
+	-	Entlohnung und Sozialleistungen
+	-	Krisensicherheit des Arbeitsplatzes
+
+### Prozesstheorien der Motivation
+
+Prozesstheorien fragen danach, **wie ein bestimmtes Verhalten des Einzelnen generiert, gelenkt und erhalten bzw. unterbrochen werden kann.**
+
+#### VIE-Theorie von Vroom
+
+Vroom versucht anhand der Faktoren **Valenz, Instrumentalität und Erwartung** zu erklären, warum Menschen sich für eine bestimmte Handlungsalternative entscheiden.
+
+-	**Valenz**
+	-	Attraktivität eines Ergebnisses / Ziels für den Handelnden
+-	**Instrumentalität**
+	-	Wert zwischen -1 und 1
+	-	gibt an, in wiefern die Handlungsergebnisse die übergeordneten Ziele zwingend unterstützen (1) oder verringern (-1)
+-	**Erwartung**
+	-	subjektive Wahrscheinlichkeit des Individuums, dass eine bestimmte Handlung auch ein bestimmtes Handlungsergebnis zur Folge hat
+	-	0 = sicher nicht
+	-	1 = sicher
+
+Mitarbeitergespräch
+-------------------
+
+### Gegenstand und Ziel des Gesprächs
+
+### Vorbereitung
+
+### Durchführung
+
+### Probleme
+
+Zusammenarbeit mit Freiberuflern
+--------------------------------
+
+*Aus Sicht des Unternehmens*
+
+-	**Vorteile**
+	-	keine Lohnnebenkosten
+	-	flexibler Einsatz
+	-	keine Fixkosten
+	-	neue Ideen / keine Betriebsblindheit
+-	**Nachteile**
+	-	Loyalität
+	-	Abfluss von Know How
+
+**Klausur:** wenn er nichts hinschreibt, gilt es immer *aus Sicht des Unternehmens*
+
+*Aus Sicht des Menschen*
+
+-	Vorteile aus Sicht des Menschen
+	-	Freiheit!!!, Flexibilität
+	-	Es gibt keine Chefs, nur Geschäftspartner
+-	Nachteile
+	-	keine Lohnfortzahlung im Krankheitsfall
+	-	fehlende Sicherheit
