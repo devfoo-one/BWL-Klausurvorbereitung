@@ -631,8 +631,8 @@ Die **aus der Bilanz abgeleiteten** Konten bezeichnet man als Bestandskonten. Hi
 
 Beispiele:
 
--	*Bank an Forderungen 2000€*
--	*Werbeaufwendungen 800€ und Vorsteuer 152€ an Bank 952€*
+-	*Bank an Forderungen 2000€* (einfacher Buchungssatz)
+-	*Werbeaufwendungen 800€ und Vorsteuer 152€ an Bank 952€* (zusammengesetzter Buchungssatz)
 
 #### Grundbuch
 
@@ -741,6 +741,43 @@ Die Erfolgskonten sind **Unterkonten des Eigenkapitalkontos (EK)**. Alle Erfolgs
 | Soll     | Haben |
 |:---------|:------|
 | GuV 2400 |       |
+
+Umsatzsteuer
+------------
+
+-	ist für Unternehmen ein **durchlaufender Posten**
+	-	Die Umsatzsteuer verursacht den Unternehmen keine Kosten
+-	**Die Umsatzsteuer ist niemals Aufwand, die Vorsteuer kein Ertrag**
+-	geregelt im **Umsatzsteuergesetz**
+-	`Nettobetrag + Umsatzsteuer = Bruttobetrag`
+-	gilt auch für die Entnahme betrieblicher Gegenstände für private Zwecke
+
+```
+Hersteller ----> Großhändler ----> Endhändler ----> Kunde
+  100€     +19€     EK 119€  +38€   EK 238€   +76€  476€
+                    VK 200€         VK 400€
+
+Wer führt was ans Finanzamt ab?
+
+Hersteller  = 19€
+Großhändler = 38€ - 19€ = 19€ (weil ja 19€ Vorsteuer)
+Endhändler  = 76€ - 38€ = 38€ (weil ja 38€ Vorsteuer)
+```
+
+Der Unternehmer **kassiert vom Kunde die Umsatzsteuer** und **führt diese ans Finanzamt ab**. Der Unternehmer muss jedoch auch Umsatzsteuer zahlen. Da der Gesetzgeber möchte dass die Umsatzsteuer nur die privaten Endverbraucher belastet, erhält der Unternehmer gezahlte Umsatzsteuer zurück. Damit das ganze übersichtlich wird, und nicht jede einzelne Steuer überwiesen werden muss, werden die Umsatzsteuern auf zwei Konten gebucht:
+
+-	**Vorsteuerkonto**
+	-	vom Unternehmen **bezahlte Umsatzsteuer**
+	-	*(Forderung gegenüber dem Finanzamt)*
+	-	Das Vorsteuerkonto ist, genauso wie Forderungen a. LL. ein **Aktivkonto**
+-	**Umsatzsteuerkonto**
+	-	vom Kunden **kassierte Umsatzsteuer**
+	-	*(Verbindlichkeit gegenüber dem Finanzamt)*
+	-	Das Umsatzsteuerkonto ist, genau wie Verbindlichkeiten a. LL. ein **Passivkonto**
+
+Die Differenz der beiden Konten entsprich der Zahlllast. Zum Monatsende werden die beiden Konten Vorsteuer und Umsatzsteuer miteinander verrechnet. In den meisten Fällen wird die gebuchte Umsatzsteuer höher sein als die gebuchte Vorsteuer. In diesem Fall stellt die Differenz die Zahllast dar. Das Unternehmen muss bis zum 10. des Folgemonats die Umsatzsteuervoranmeldung beim Finanzamt einreichen.
+
+Am Jahresende werden die Vorsteuer- und Umsatzsteuerkonten miteinander verrechnet. (Das Konto mit dem kleineren Saldo wird über das Konto mit dem größeren Saldo abgeschlossen). Das verbleibende Konto wird, wie alle Bestandskonten, über SBK abgeschlossen.
 
 Kosten und Leistungsrechnung (KLR)
 ==================================
